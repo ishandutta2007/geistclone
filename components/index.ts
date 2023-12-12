@@ -129,6 +129,9 @@ export type { RatingProps } from './rating'
 export { default as Select } from './select'
 export type { SelectProps, SelectOptionProps } from './select'
 
+export { default as SingularityLabsSocialBar } from './SingularityLabsSocialBar'
+export type { SingularityLabsSocialBar } from './SingularityLabsSocialBar'
+
 export { default as Slider } from './slider'
 export type { SliderProps } from './slider'
 
