@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Discussions",
+    "url": "https://github.com/geist-org/geistclone/discussions"
+  },
+  {
+    "name": "Example projects",
+    "url": "https://github.com/geist-org/geistclone/tree/master/examples"
+  },
+  {
+    "name": "Create issue",
+    "url": "https://github.com/geist-org/geistclone/issues/new/choose"
+  },
+  {
+    "name": "Release Note",
+    "url": "https://github.com/geist-org/geistclone/releases"
+  },
+  {
+    "name": "Join Slack",
+    "url": "https://github.com/geist-org/geistclone/discussions/572"
+  },
+  {
+    "name": "License",
+    "url": "https://github.com/geist-org/geistclone/blob/master/LICENSE"
+  },
+  {
+    "name": "Canary Documentation",
+    "url": "https://rc.geistclone.dev/"
+  },
+  {
+    "name": "Canary Releases",
+    "url": "https://github.com/geist-org/geistclone/releases?q=canary&expanded=true"
+  }
+]
